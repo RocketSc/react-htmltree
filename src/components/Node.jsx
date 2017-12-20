@@ -4,7 +4,8 @@
  * Representation of an HTML element
  */
 
-import React, { Component, PropTypes } from 'react'
+import React, { Component } from 'react'
+import PropTypes from 'prop-types';
 import classnames from 'classnames'
 
 // http://www.w3.org/TR/html-markup/syntax.html#void-elements
